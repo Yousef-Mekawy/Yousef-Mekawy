@@ -1,8 +1,10 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20Hacker's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/YousefMekawy">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=مبرمج+صغير+بس+دماغ+كبيرة+💣;بحب+البرمجة+وبعلمها+بطريقتي;أهلاً+بيك+في+El+Haker+Academy;تابع+قناة+Program+in+your+self+🎥" alt="Typing SVG" />
+  </a>
+</p>
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> أهلاً بيك في عالم El Haker
 
