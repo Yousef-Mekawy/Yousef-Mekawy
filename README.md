@@ -2,7 +2,7 @@
 
 ![Welcome](https://capsule-render.vercel.app/api?
 type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20/Hacher's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
-![Typewriter Demo](https://your-gif-link.gif)
+
 
 
 
