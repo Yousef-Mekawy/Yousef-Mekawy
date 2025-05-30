@@ -2,9 +2,10 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/YousefMekawy">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=مبرمج+صغير+بس+دماغ+كبيرة+💣;بحب+البرمجة+وبعلمها+بطريقتي;أهلاً+بيك+في+El+Haker+Academy;Program+in+your+self+تابع+قناة+🎥" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=👋+My+name+is+Yousef+El+Mekawy;💻+I+am+frontend+developer;🚀+أهلاً+بيك+في+عالمي+El+Haker;🔥+متنساش+تتابع+program+in+you+self+🎥" alt="Typing SVG" />
   </a>
 </p>
+
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> أهلاً بيك في عالم El Haker
 
