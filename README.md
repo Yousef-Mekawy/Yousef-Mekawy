@@ -1,8 +1,11 @@
 
 
 ![Welcome](https://capsule-render.vercel.app/api?
-![Welcome GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20/Hacher's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
+![Typewriter Demo](https://your-gif-link.gif)
+
+
+
 
 
 ## 👋 أهلاً بيك في عالم El Haker
