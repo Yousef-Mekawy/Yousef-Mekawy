@@ -1,7 +1,7 @@
 
 
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20Joker's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
-<img src="/mnt/data/WhatsApp Image 2024-08-15 at 14.06.46_2152c2e6.jpg" width="200" align="right" style="border-radius: 10px;" />
+<img src="/mnt/data/WhatsApp Image https://media.tenor.com/TMtf3IDTn84AAAAC/code.gif" width="200" align="right" style="border-radius: 10px;" />
 
 ## 👋 أهلاً بيك في عالم El Haker
 أنا يوسف مكاوي، مبرمج صغير بس دماغ كبيرة 💣، وصاحب قناة **Program in your self**.
