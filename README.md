@@ -1,7 +1,7 @@
 
 
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20Joker's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
-<img src="/mnt/data/WhatsApp Image https://media.tenor.com/TMtf3IDTn84AAAAC/code.gif" width="200" align="right" style="border-radius: 10px;" />
+
 <img width="250" align="right" src="https://c.tenor.com/_https://media.tenor.com/TMtf3IDTn84AAAAC/code.gif"
 
 
