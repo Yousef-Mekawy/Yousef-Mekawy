@@ -2,8 +2,6 @@
 
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20Joker's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
 
-<img width="250" align="right" src="https://c.tenor.com/_https://media.tenor.com/TMtf3IDTn84AAAAC/code.gif"
-
 
 ## 👋 أهلاً بيك في عالم El Haker
 أنا يوسف مكاوي، مبرمج صغير بس دماغ كبيرة 💣، وصاحب قناة **Program in your self**.
