@@ -1,4 +1,5 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20Hacker's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## 👋 أهلاً بيك في عالم El Haker
 
