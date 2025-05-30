@@ -1,16 +1,60 @@
-## Hi there 👋
+![Welcome](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20El%20Joker's%20World!&fontSize=40&fontAlignY=35&desc=Powered%20by%20Yousef%20Mekawy&descAlignY=60)
 
-<!--
-**Yousef-Mekawy/Yousef-Mekawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/mnt/data/WhatsApp Image 2024-08-15 at 14.06.46_2152c2e6.jpg" width="200" align="right" style="border-radius: 10px;" />
 
-Here are some ideas to get you started:
+## 👋 أهلاً بيك في عالم El Joker
+أنا يوسف مكاوي، مبرمج صغير بس دماغ كبيرة 💣، وصاحب قناة **Program in your self**.
+لو بتدور على البرمجة بطعم مختلف... يبقى أنت في المكان الصح 🎯.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 أعمالي ومشاريعي
+- 🔥 **El Haker Academy**: مش بس هتتعلم برمجة… هتصنع عقل مبرمج.
+- 🌱 **موقع استكشاف النباتات**: لكل محبي الطبيعة والبرمجة.
+- 🌐 **موقع فرونت إند تعليمي**: خليك محترف واجهات.
+- 🧮 **تطبيق آلة حاسبة**: بسيط وفعال.
+- 💵 **تطبيق كاشير**: لإدارة المبيعات.
+- ⏳ **تطبيق حساب العمر**: اعرف عمرك بالدقة.
+
+---
+
+## 🧠 مهاراتي
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🔥 أهدافي
+- بناء منصة تعليمية متكاملة.
+- تعليم 100+ طالب برمجة من الصفر.
+- المشاركة في مسابقات البرمجة والفوز بيها.
+
+---
+
+## 🎮 شوية حاجات عني
+- بحب أشرح البرمجة بطريقتي.
+- مبرمج بحب التحدي.
+- ممكن أضحكك بنكتة برمجة وهي بتشتغل 😄
+
+---
+
+## 📊 إحصائيات
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousef-Mekawy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Mekawy&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 تواصل معايا
+- 📧 yousef@example.com
+- 🎥 قناة اليوتيوب: Program in your self
+- 🌍 قريبا موقع El Haker Academy
+
+---
+
+> "البرمجة مش كود... البرمجة طريقة تفكير."
+
+🃏 **El Joker – البرمجة على طريقتي.**
