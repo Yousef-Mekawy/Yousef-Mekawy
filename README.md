@@ -42,11 +42,7 @@
 
 ---
 
-## 📊 إحصائيات
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousef-Mekawy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-Mekawy&layout=compact&theme=tokyonight)
 
----
 
 ## 📫 تواصل معايا
 - 📧 yosefmekawy987@gmail.com
