@@ -7,7 +7,7 @@
 </p>
 
 
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> أهلاً بيك في عالم El Haker
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> أهلاً بيك في عالمي
 
 أنا يوسف مكاوي،
 مبرمج صغير بس دماغ كبيرة 💣، 
